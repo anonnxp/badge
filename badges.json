@@ -105,16 +105,16 @@
       "type": "filter"
     },
     {
-      "borderColor": "#FFBE01",
+      "borderColor": "#00000000",
       "groupId": "gv",
       "id": "v-hdr10p",
-      "imageURL": "https://raw.githubusercontent.com/nobnobz/Omni-Template-Bot-Bid-Raiser/main/Other/regex%20tags/HDR10Plus.png",
+      "imageURL": "https://raw.githubusercontent.com/anonnxp/badge/main/badges/HDR10+-og.png",
       "isEnabled": true,
       "name": "HDR10+",
       "pattern": "(?i)^(?!.*\\b(?:dv|dovi|dolby[\\s._-]?vision)\\b)(?=.*hdr[\\s._-]?10[\\s._-]?(?:\\\\+|plus|p))",
-      "tagColor": "#FFBE01",
-      "tagStyle": "filled",
-      "textColor": "#0e0e0e",
+      "tagColor": "#00000000",
+      "tagStyle": "filled and bordered",
+      "textColor": "#00000000",
       "type": "filter"
     },
     {
