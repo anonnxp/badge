@@ -131,16 +131,16 @@
       "type": "filter"
     },
     {
-      "borderColor": "#FFBE01",
+      "borderColor": "#00000000",
       "groupId": "gv",
       "id": "v-hdr",
-      "imageURL": "https://raw.githubusercontent.com/nobnobz/Omni-Template-Bot-Bid-Raiser/main/Other/regex%20tags/HDR.png",
+      "imageURL": "https://raw.githubusercontent.com/anonnxp/badge/main/badges/hdr-og.png",
       "isEnabled": true,
       "name": "HDR",
       "pattern": "(?i)^(?!.*\\b(?:dv|dovi|dolby[\\s._-]?vision)\\b)(?=.*\\bHDR\\b)(?!.*hdr[\\s._-]?10)",
-      "tagColor": "#FFBE01",
-      "tagStyle": "filled",
-      "textColor": "#FFFFFF",
+      "tagColor": "#00000000",
+      "tagStyle": "filled and bordered",
+      "textColor": "#00000000",
       "type": "filter"
     },
     {
