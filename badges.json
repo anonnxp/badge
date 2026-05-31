@@ -178,7 +178,7 @@
       "name": "Atmos+DV",
       "pattern": "(?i)^(?=.*\\batmos\\b)(?=.*\\b(?:dv|dovi|dolby[\\s._-]?vision)\\b)",
       "tagColor": "#00000000",
-      "tagStyle": "filled and bordered",
+      "tagStyle": "filled",
       "textColor": "#FFFFFF",
       "type": "filter"
     },
