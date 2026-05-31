@@ -14,16 +14,16 @@
       "type": "filter"
     },
     {
-      "borderColor": "#FF00FF37",
+      "borderColor": "#00000000",
       "groupId": "gq",
       "id": "q-b",
-      "imageURL": "https://raw.githubusercontent.com/9mousaa/BetterFormatter/main/images/colored-bluray.png",
+      "imageURL": "https://raw.githubusercontent.com/anonnxp/badge/main/badges/blu-ray-og.png",
       "isEnabled": true,
       "name": "BluRay",
       "pattern": "(?i)^(?=.*(?:bluray|blu-ray))(?!.*remux)",
-      "tagColor": "#E600E932",
-      "tagStyle": "filled",
-      "textColor": "#27C04F",
+      "tagColor": "#00000000",
+      "tagStyle": "filled and bordered",
+      "textColor": "#00000000",
       "type": "filter"
     },
     {
