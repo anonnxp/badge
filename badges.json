@@ -56,7 +56,7 @@
       "borderColor": "#00000000",
       "groupId": "gr",
       "id": "r-4k",
-      "imageURL": "https://raw.githubusercontent.com/anonnxp/badge/main/badges/4k-og.png",
+      "imageURL": "",
       "isEnabled": true,
       "name": "4K",
       "pattern": "(?i)^(?=.*(?:2160[pi]?|4k|uhd))(?!.*(?:1080[pi]?|720[pi]?))",
