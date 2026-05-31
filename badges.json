@@ -55,7 +55,7 @@
     {
       "groupId": "gr",
       "id": "r-4k",
-      "imageURL": "https://github.com/anonnxp/badge/blob/main/badges/4k-rgb-test.png",
+      "imageURL": "https://raw.githubusercontent.com/anonnxp/badge/main/badges/4k-rgb-test.png",
       "isEnabled": true,
       "name": "4K",
       "pattern": "(?i)^(?=.*(?:2160[pi]?|4k|uhd))(?!.*(?:1080[pi]?|720[pi]?))",
